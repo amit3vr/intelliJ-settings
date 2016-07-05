@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="yy" type="PLAIN_TEXT" />
