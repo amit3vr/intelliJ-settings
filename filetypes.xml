@@ -5,6 +5,7 @@
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="yy" type="PLAIN_TEXT" />
+      <mapping pattern=".nodal" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
