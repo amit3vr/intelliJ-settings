@@ -1,10 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="yy" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".nodal" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
